@@ -1,3 +1,12 @@
+:root {
+  --blanco: #ffffff;
+  --oscuro: #212121;
+  --colorPrimero: #dfc9ec;
+  --colorSegundo: #bc96d2;
+  --colorTercero: #7a4398;
+  --colorCuarto: #622982;
+}
+
 html {
   font-size: 62.5%;
 }
